@@ -239,12 +239,12 @@
     }
 
     .profile_wrapper {
-        width: 80%;
+        width: 60%;
         height: auto;
     }
 
     .icon-section {
-        width: 100%;
+        width: 70%;
         height: auto;
         display: flex;
         justify-content: space-around;
